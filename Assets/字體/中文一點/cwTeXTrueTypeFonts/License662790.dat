@@ -1,0 +1,53 @@
+# BEGIN--------------BEGIN--------------BEGIN
+# MathWorks license passcode file.
+# LicenseNo: 662790   HostID: E41F13679948
+#
+# R2011b
+#
+INCREMENT MATLAB MLM 26 01-nov-2012 2938 ED9F9312A71A6772929E \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE=product=MATLAB SN=662790
+INCREMENT SIMULINK MLM 26 01-nov-2012 2938 FDCF43E22E6C352CC217 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE=product=Simulink SN=662790
+INCREMENT Fin_Derivatives_Toolbox MLM 26 01-nov-2012 2938 \
+	5D8FE30250A8E8F4AE60 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Financial Derivatives Toolbox" SN=662790
+INCREMENT Financial_Toolbox MLM 26 01-nov-2012 2938 \
+	CDEF0372025740F4FCA6 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Financial Toolbox" SN=662790
+INCREMENT GADS_Toolbox MLM 26 01-nov-2012 2938 1D8F43B2076F78848443 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Global Optimization Toolbox" SN=662790
+INCREMENT Optimization_Toolbox MLM 26 01-nov-2012 2938 \
+	6D7FC352DF28DF692A37 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Optimization Toolbox" SN=662790
+INCREMENT Distrib_Computing_Toolbox MLM 26 01-nov-2012 2938 \
+	ADEF03123439EDD04A71 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Parallel Computing Toolbox" SN=662790
+INCREMENT Signal_Toolbox MLM 26 01-nov-2012 2938 0DDF4312E87A3C9E6F65 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Signal Processing Toolbox" SN=662790
+INCREMENT Statistics_Toolbox MLM 26 01-nov-2012 2938 \
+	7D2FD3F23F7840652938 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Statistics Toolbox" SN=662790
+INCREMENT Symbolic_Toolbox MLM 26 01-nov-2012 2938 \
+	CDCF23521CF010B91496 \
+	VENDOR_STRING=vi=0:at=299:ae=1:lu=200:lo=TA1:ei=1237963: \
+	DUP_GROUP=UH asset_info=662790 ISSUED=19-Oct-2011 \
+	NOTICE="product=Symbolic Math Toolbox" SN=662790
+# END-----------------END-----------------END

@@ -1,0 +1,39 @@
+24-Wer reitet so spät durch Nacht und Wind? [是誰在深夜狂風下疾馳？]
+31-Es ist der Vater mit seinem Kind; [是一個父親和他的孩子。]
+37-Er hat den Knaben wohl in dem Arm, [他將孩子抱在臂彎，]
+44-Er faßt ihn sicher, er hält ihn warm. [緊緊擁著，保護他，給他溫暖。]
+
+55-“Mein Sohn, was birgst du so bang dein Gesicht? [“我兒，為何要藏起你充滿恐懼的臉龐？"]
+64-“Siehst, Vater, du den Erlkönig nicht? [“看，父親，你沒見到那魔王嗎？]
+71-Den Erlenkönig mit Kron und Schweif? [那戴著王冠、拖著長袍的魔王？"]
+78-“Mein Sohn, es ist ein Nebelstreif."[“孩子，那是只是霧氣。"]
+
+88-“Du liebes Kind, komm, geh mit mir! [“可愛的孩子，來吧，跟我走！]
+95-Gar schöne Spiele spiel’ ich mit dir; [我會和你玩有趣的遊戲；]
+102-Manch’ bunte Blumen sind an dem Strand, [岸邊有好多鮮艷的花朵，]
+108-Meine Mutter hat manch gülden Gewand."[我媽媽有很多金色的衣服。"]
+
+113-“Mein Vater, mein Vater, und hörest du nicht, [“父親，父親，你有沒有聽到？]
+119-Was Erlenkönig mir leise verspricht?"[那魔王輕聲答應我的說話？"]
+126-“Sei ruhig, bleib ruhig, mein Kind; [“冷靜，冷靜，我的孩子，]
+130-In dürren Blättern säuselt der Wind."[那只是風吹枯葉的絮語。"]
+
+136-“Willst, feiner Knabe, du mit mir gehen? [“可愛的孩子，你想不想跟我走？]
+140-Meine Töchter sollen dich warten schön; [我的女兒們會照顧你；]
+143-Meine Töchter führen den nächtlichen Reihn, [我的女兒們會為你帶來黑夜之舞，]
+147-Und wiegen und tanzen und singen dich ein."[搖著舞著唱著伴你入睡。"]*2
+
+155-“Mein Vater, mein Vater, und siehst du nicht dort [“父親，父親，你看不到嗎？]
+161-Erlkönigs Töchter am düstern Ort?"[藏在黑暗中的魔王之女？"]
+166-“Mein Sohn, mein Sohn, ich seh es genau: [“孩子，孩子，我看得很清楚：]
+173-Es scheinen die alten Weiden so grau."[那只是柳樹灰暗的外形。"]
+
+184-“Ich liebe dich, mich reizt deine schöne Gestalt; [“我很喜歡你，尤其是你那可愛的臉蛋；]
+189-Und bist du nicht willig, so brauch ich Gewalt."[你若是不願，那我將使用暴力。"]
+195-“Mein Vater, mein Vater, jetzt faßt er mich an! [“父親，父親，他抓住我！]
+202-Erlkönig hat mir ein Leids getan!"[魔王弄得我很痛苦！"]
+
+209-Dem Vater grauset’s, er reitet geschwind, [父親顫抖著，策馬疾馳，]
+215-Er hält in Armen das ächzende Kind, [懷抱著痛苦哀號的兒子，]
+225-Erreicht den Hof mit Müh’ und Not; [他在恐懼下千辛萬苦終於返抵家中；]
+240-In seinen Armen das Kind war tot. [在他懷裡的是他兒子....的屍體。]
